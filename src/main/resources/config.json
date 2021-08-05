@@ -1,8 +1,8 @@
 {
   "routers": [
     {
-      "router": "com.github.supermoonie.test.router.TestRouter",
-      "queryHandler": "testQuery"
+      "router": "com.github.supermoonie.plugins.NotificationRouter",
+      "queryHandler": "onQuery"
     }
   ]
 }
