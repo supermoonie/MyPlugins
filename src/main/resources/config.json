@@ -1,0 +1,8 @@
+{
+  "routers": [
+    {
+      "router": "com.github.supermoonie.test.router.TestRouter",
+      "queryHandler": "testQuery"
+    }
+  ]
+}
