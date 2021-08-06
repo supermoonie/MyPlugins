@@ -2,7 +2,7 @@
   "routers": [
     {
       "router": "com.github.supermoonie.plugins.NotificationRouter",
-      "queryHandler": "onQuery"
+      "queryHandlers": ["notify"]
     }
   ]
 }
